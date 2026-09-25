@@ -218,7 +218,4 @@ This project is part of my journey toward developing practical skills in **data 
 
 **Yop Gony**
 
-BSc Economics & Statistics
-KCA University
 
-Interested in **Data Analytics, Statistics, Economics, and Data Science**.
